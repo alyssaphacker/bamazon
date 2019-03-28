@@ -30,6 +30,8 @@ node *.js
 
 Follow the prompts to make a purchase. The transaction will be reflected in the database. 
 
+<img width="958" alt="Screen Shot 2019-03-28 at 8 01 38 AM" src="https://user-images.githubusercontent.com/35080523/55168520-36bac280-5130-11e9-92ad-280e20c4b5d3.png">
+
 ## Built With
 
 * [Node](https://nodejs.org/en/docs/) - The web framework used
