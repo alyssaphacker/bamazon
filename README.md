@@ -34,10 +34,6 @@ Follow the prompts to make a purchase. The transaction will be reflected in the 
 * [MySQL](https://www.mysql.com/) - Relational DB 
 * [Inquirer](https://www.npmjs.com/package/inquirer) - Used for CLI
 
-## Contributing
-
-Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c63ec426) for details on our code of conduct, and the process for submitting pull requests to us.
-
 ## Authors
 
 * **William Diebolt** 
