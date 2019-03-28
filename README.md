@@ -4,13 +4,9 @@ A unique way to purchase items
 
 ## Getting Started
 
-Grab all of this code.
+Grab all of this code. Install node, the two dependencies, and MySQL
 
-### Prerequisites
-
-Install node, dependencies, and MySQL
-
-### Installing
+### Setting up Node
 
 Install the project dependencies
 
@@ -28,15 +24,15 @@ node *.js
 
 ## Usage
 
-Follow the prompts to make a purchase. The transaction will be reflected in the database. 
+Follow the prompts to make a purchase. The transaction will be reflected in the database. Here is an example session:
 
 <img width="958" alt="Screen Shot 2019-03-28 at 8 01 38 AM" src="https://user-images.githubusercontent.com/35080523/55168520-36bac280-5130-11e9-92ad-280e20c4b5d3.png">
 
 ## Built With
 
-* [Node](https://nodejs.org/en/docs/) - The web framework used
-* [MMySQL](https://www.mysql.com/) - Dependency Management
-* [Inquirer](https://www.npmjs.com/package/inquirer) - Used to generate RSS Feeds
+* [Node](https://nodejs.org/en/docs/) - The JS runtime environment
+* [MySQL](https://www.mysql.com/) - Relational DB 
+* [Inquirer](https://www.npmjs.com/package/inquirer) - Used for CLI
 
 ## Contributing
 
@@ -45,8 +41,6 @@ Please read [CONTRIBUTING.md](https://gist.github.com/PurpleBooth/b24679402957c6
 ## Authors
 
 * **William Diebolt** 
-
-See also the list of [contributors](https://github.com/alyssaphacker/bamazon/contributors) who participated in this project.
 
 ## License
 
