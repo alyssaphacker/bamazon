@@ -35,4 +35,4 @@ VALUES ("barrel of apples", "commodities", 54.99, 100);
 VALUES ("bushel of wheat", "commodities", 4.89, 100);
 
 
-SELECT * FROM products
+SELECT * FROM products WHERE item_id=1

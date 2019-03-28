@@ -53,7 +53,11 @@ function purchase(id, quantity){
 			var diff = parseInt(res[0].stock_quantity) - parseInt(quantity)
 			if(diff >= 0){
 				updateProduct(id, diff);
-			}	
+				console.log("Funds have been withdrawn: $" + res[0].price);
+			}else{
+				console.log("Not enuf left!");
+			}
+			 connection.end();	
 		})
 }
 
