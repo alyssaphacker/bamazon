@@ -6,7 +6,7 @@ A unique way to purchase items
 
 Grab all of this code. Install node, the two dependencies, and MySQL
 
-### Setting up Node
+### Setup Node
 
 Install the project dependencies
 
